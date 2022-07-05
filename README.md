@@ -12,5 +12,5 @@
 
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: C/C++, CMake, Docker, and Cryptography.
-- 📫 How to reach me: [contact](mailto:contact@michael-herwig.de)
+- 📫 How to reach me: [contact@michael-herwig.de](mailto:contact@michael-herwig.de)
 - ⚡ Fun fact: I love tickets and have a personal repository to manage my appointments.
